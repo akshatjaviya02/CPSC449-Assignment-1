@@ -1,0 +1,7 @@
+id,brand,series,CPU,ram,SSD,price,Inventory
+1,Apple,MacBook,M2,8gb,256gb,1099.99,50
+2,Apple,MacBook,M3,16gb,512gb,1399.99,20
+3,Dell,"Inspiron 15 5000","Intel  Core i7-1065G7",16gb,512gb,899.99,40
+4,Apple,"MacBook Air",M2,8gb,256gb,999.99,10
+5,Apple,MacBook,M2,8gb,256gb,999.99,10
+6,Apple,MacBook,M3,16gb,1Tb,2999.99,10
